@@ -9,7 +9,7 @@
 :root {
   --primary-text-color: #b91c1c;
   --secondary-text-color: #8d4b4b;
-  --accent-color: #eddf22;
+  --accent-color: #22dfed;
   --accent-color-dark: #a31d1d;
 }
 
@@ -88,7 +88,7 @@ nav {
 }
 
 .news-input {
-  width: 200px;
+  width: 500px;
   height: 100%;
   padding-inline: 12px;
   border-radius: 4px;
